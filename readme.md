@@ -19,4 +19,7 @@
 15. Write a program that read any number and divide by five using shift operator.
 16. Write a program that read any number and mod by four using bitwise AND.
 17. Write a program that read any number and mod by eight using bitwise AND.
+# Remember practice makes a man perfect.
+### Try to understand the logic of code and then try to write code yourself.
 
+-- Habibur Rahman
